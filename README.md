@@ -20,7 +20,7 @@ This repository contains small, self-contained Python projects that help me prac
 
 | Project Name           | Description                                  |
 |------------------------|----------------------------------------------|
-| 🎯 Number Guessing Game | A simple game where the player guesses a number between 1 and 100 |
+| 🎯 Number Guessing Game | A simple game where the player guesses a number between 1 and 10 |
 | 📝 To-Do List (Terminal) | A CLI-based to-do app to add, view, and remove tasks |
 
 More coming soon...
